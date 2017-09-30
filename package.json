@@ -1,0 +1,24 @@
+{
+  "name": "stock-scanner",
+  "version": "1.0.0",
+  "description": "Stock scanner based on some algo's",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/venkivenki123/stock-scanner.git"
+  },
+  "author": "Venkatesh Vemula",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/venkivenki123/stock-scanner/issues"
+  },
+  "homepage": "https://github.com/venkivenki123/stock-scanner#readme",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "express": "^4.16.1",
+    "request": "^2.83.0"
+  }
+}
